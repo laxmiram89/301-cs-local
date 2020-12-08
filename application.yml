@@ -1,0 +1,9 @@
+eureka:
+  client:
+    service-url:
+      defaultZone: http://qbdqr86693dns.eastus2.cloudapp.azure.com:7001
+
+user: user
+password: password
+
+
